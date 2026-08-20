@@ -1,10 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:064E3B,100:047857&height=220&section=header&text=LUNA%20CAF%C3%89&fontSize=60&fontColor=F5F0E6&fontAlignY=38&animation=fadeIn&desc=Coffee%2C%20conversations%20%26%20slow%20moments.&descAlignY=58&descSize=18" width="100%" alt="Luna Cafe banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=047857&height=200&section=header&animation=fadeIn" width="100%" alt="Luna Cafe banner"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=600&size=22&duration=2800&pause=900&color=047857&center=true&vCenter=true&width=760&lines=A+premium+caf%C3%A9+experience%2C+reimagined+online.;Explore+the+menu.+Reserve+a+table.+Stay+a+while.;Editorial+design+meets+effortless+hospitality." alt="Luna Café animated tagline" />
+<img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=700&size=42&duration=3500&pause=1200&color=047857&center=true&vCenter=true&width=600&lines=LUNA+CAFE" alt="Luna Cafe title" />
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=600&size=22&duration=2800&pause=900&color=047857&center=true&vCenter=true&width=760&lines=A+premium+cafe+experience%2C+reimagined+online.;Explore+the+menu.+Reserve+a+table.+Stay+a+while.;Editorial+design+meets+effortless+hospitality." alt="Luna Cafe animated tagline" />
 
 <br/><br/>
 
@@ -42,18 +46,6 @@ The experience brings the café's menu, story, atmosphere, events, reservations,
 > *A little space to slow down.*
 
 **🔗 Live site:** **[luna-cafe-pied.vercel.app](https://luna-cafe-pied.vercel.app/)**
-
-<br/>
-
-<div align="center">
-
-### ◈ A Glimpse Inside
-
-<img src="https://luna-cafe-pied.vercel.app/og-image.png" width="85%" alt="Luna Café preview" style="border-radius:12px; box-shadow: 0 20px 40px rgba(6,78,59,0.35);"/>
-
-<sub>*(If this preview doesn't load, drop a real screenshot or GIF walkthrough here — see the note at the bottom on getting the most premium visual result.)*</sub>
-
-</div>
 
 <br/>
 
@@ -327,7 +319,7 @@ Luna Café is built around that idea:
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:047857,100:064E3B&height=180&section=footer&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=047857&height=180&section=footer&animation=fadeIn"/>
 
 **☕ LUNA CAFÉ**
 *Coffee, conversations & slow moments.*
