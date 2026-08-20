@@ -1,754 +1,341 @@
-::: {align="center"}
-# ☕ LUNA CAFÉ
+<div align="center">
 
-### *Coffee, conversations & slow moments.*
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:064E3B,100:047857&height=220&section=header&text=LUNA%20CAF%C3%89&fontSize=60&fontColor=F5F0E6&fontAlignY=38&animation=fadeIn&desc=Coffee%2C%20conversations%20%26%20slow%20moments.&descAlignY=58&descSize=18" width="100%" alt="Luna Cafe banner"/>
 
-`<img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=600&size=20&duration=3000&pause=900&color=10B981&center=true&vCenter=true&width=700&lines=A+premium+digital+experience+for+Luna+Caf%C3%A9;Elegant+design+%7C+Smooth+interactions+%7C+Responsive+experience;Built+for+real-world+restaurant+businesses" alt="Animated project tagline" />`{=html}
+<br/>
 
-`<br/>`{=html}
+<img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=600&size=22&duration=2800&pause=900&color=047857&center=true&vCenter=true&width=760&lines=A+premium+caf%C3%A9+experience%2C+reimagined+online.;Explore+the+menu.+Reserve+a+table.+Stay+a+while.;Editorial+design+meets+effortless+hospitality." alt="Luna Café animated tagline" />
 
-[![Live
-Demo](https://img.shields.io/badge/✦%20LIVE%20DEMO-10B981?style=for-the-badge&logoColor=white)](https://luna-cafe-pied.vercel.app/)
-[![GitHub](https://img.shields.io/badge/GITHUB-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Saniya0301/luna-cafe)
-[![React](https://img.shields.io/badge/REACT-111827?style=for-the-badge&logo=react&logoColor=61DAFB)](https://react.dev/)
-[![Vite](https://img.shields.io/badge/VITE-111827?style=for-the-badge&logo=vite&logoColor=646CFF)](https://vite.dev/)
-[![TypeScript](https://img.shields.io/badge/TYPESCRIPT-111827?style=for-the-badge&logo=typescript&logoColor=3178C6)](https://www.typescriptlang.org/)
+<br/><br/>
 
-`<br/>`{=html}`<br/>`{=html}
+<a href="https://luna-cafe-pied.vercel.app/">
+  <img src="https://img.shields.io/badge/✦%20VISIT%20LUNA%20CAFÉ%20—%20LIVE-047857?style=for-the-badge&logoColor=white" alt="Live Demo"/>
+</a>
+<a href="https://github.com/Saniya0301/luna-cafe">
+  <img src="https://img.shields.io/badge/VIEW%20SOURCE-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+<a href="https://github.com/Saniya0301/luna-cafe/stargazers">
+  <img src="https://img.shields.io/github/stars/Saniya0301/luna-cafe?style=for-the-badge&color=D4AF37&labelColor=111827" alt="Stars"/>
+</a>
 
-> **Luna Café** is a premium, editorial-style café website concept
-> designed to demonstrate how a modern restaurant can turn its online
-> presence into an immersive digital experience.
+<br/><br/>
 
-`<br/>`{=html}
-:::
+<img src="https://img.shields.io/badge/React-111827?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/TypeScript-111827?style=for-the-badge&logo=typescript&logoColor=3178C6"/>
+<img src="https://img.shields.io/badge/Vite-111827?style=for-the-badge&logo=vite&logoColor=646CFF"/>
+<img src="https://img.shields.io/badge/Deployed%20on%20Vercel-111827?style=for-the-badge&logo=vercel&logoColor=white"/>
 
-------------------------------------------------------------------------
+</div>
+
+<br/>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=047857&height=2&width=900" width="80%"/>
+</div>
 
 ## ✦ The Experience
 
-Luna Café is designed around a simple idea:
+**Luna Café** is a refined digital home for a modern neighbourhood café — designed around warm hospitality, editorial typography, rich imagery and effortless interaction.
 
-**A restaurant website should feel like entering the restaurant.**
+The experience brings the café's menu, story, atmosphere, events, reservations, location and customer touchpoints into one elegant, responsive website.
 
-Instead of building a basic menu-and-contact website, this project
-combines:
+> *A little space to slow down.*
 
--   Editorial-inspired visual design
--   High-impact typography
--   Cinematic imagery
--   Smooth interactions and motion
--   Restaurant discovery
--   Digital menu browsing
--   Reservation flows
--   Gallery storytelling
--   Events and journal content
--   Location and contact information
--   Ordering and cart experiences
--   Gift-card discovery
--   Floating customer actions
+**🔗 Live site:** **[luna-cafe-pied.vercel.app](https://luna-cafe-pied.vercel.app/)**
 
-The result is a **premium restaurant website concept that can be adapted
-for cafés, restaurants, bakeries, bars and hospitality brands.**
+<br/>
 
-------------------------------------------------------------------------
+<div align="center">
 
-## ✨ Highlights
+### ◈ A Glimpse Inside
 
-  Area               Experience
-  ------------------ --------------------------------------------------
-  🎨 Visual Design   Premium editorial café aesthetic
-  📱 Responsive      Desktop, tablet and mobile layouts
-  🧭 Navigation      Multi-page restaurant experience
-  🍽️ Menu            Categorised food & beverage discovery
-  🖼️ Gallery         Visual storytelling and ambience
-  📖 Journal         Editorial content and restaurant stories
-  ✦ Events           Discover upcoming café experiences
-  📅 Reservations    Dedicated table reservation experience
-  🛍️ Ordering        Cart and order-oriented flows
-  🎁 Gift Cards      Dedicated gift-card experience
-  📍 Location        Restaurant location and directions
-  💬 Contact         Dedicated contact experience
-  💚 WhatsApp        Quick customer communication
-  ✨ Ask Luna        Floating interactive assistant entry point
-  🪄 Motion          Animated UI elements and interactive transitions
-  🧩 Reusable UI     Component-based React architecture
+<img src="https://luna-cafe-pied.vercel.app/og-image.png" width="85%" alt="Luna Café preview" style="border-radius:12px; box-shadow: 0 20px 40px rgba(6,78,59,0.35);"/>
 
-------------------------------------------------------------------------
+<sub>*(If this preview doesn't load, drop a real screenshot or GIF walkthrough here — see the note at the bottom on getting the most premium visual result.)*</sub>
 
-# 🏛️ Website Architecture
+</div>
 
-The website is structured as a complete restaurant digital ecosystem
-rather than a single landing page.
+<br/>
 
-``` text
-LUNA CAFÉ
-│
-├── Home
-│   ├── Hero Experience
-│   ├── Café Introduction
-│   ├── Featured Menu
-│   ├── Atmosphere / Experience
-│   ├── Gallery Preview
-│   ├── Events Preview
-│   ├── Journal Preview
-│   └── Reservation CTA
-│
-├── Menu
-│   ├── Food
-│   ├── Coffee
-│   ├── Breakfast
-│   ├── Desserts
-│   └── Featured Items
-│
-├── About
-│   ├── Café Story
-│   ├── Philosophy
-│   └── Experience
-│
-├── Gallery
-│   └── Visual Café Collection
-│
-├── Journal
-│   └── Editorial Articles
-│
-├── Events
-│   └── Café Experiences
-│
-├── Reservations
-│   └── Table Booking Experience
-│
-├── Order
-│   └── Ordering Flow
-│
-├── Cart
-│   └── Selected Items
-│
-├── Gift Cards
-│   └── Gift Experience
-│
-├── FAQ
-│   └── Frequently Asked Questions
-│
-├── Location
-│   └── Find Luna Café
-│
-├── Contact
-│   └── Customer Enquiries
-│
-└── 404
-    └── Custom Not Found Experience
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=047857&height=2&width=900" width="80%"/>
+</div>
+
+## ◈ Explore Luna
+
+| Section | Experience |
+|---|---|
+| 🏡 **Home** | Editorial hero, café identity, atmosphere highlights, featured experiences and clear calls-to-action |
+| 🍽️ **Menu** | Curated menu categories, dishes, descriptions, pricing and interactive browsing |
+| ✦ **About** | The Luna story, philosophy, hospitality and neighbourhood character |
+| 📷 **Gallery** | Visual exploration of the café, food, interiors and ambience |
+| 📖 **Journal** | Editorial-style stories, café notes and lifestyle content |
+| ✨ **Events** | Discover upcoming experiences, gatherings and special café moments |
+| 📅 **Reservations** | Dedicated table-booking experience with a polished reservation flow |
+| 📍 **Location** | Café address, contact details, directions and location information |
+| 💌 **Contact** | Easy access to café communication and enquiries |
+| 🎁 **Gift Cards** | Giftable café experiences presented as a premium digital product |
+| ❓ **FAQ** | Frequently asked questions for quick customer support |
+| 🛒 **Order / Cart** | Interactive ordering experience with cart functionality |
+| 💬 **Ask Luna** | Floating conversational touchpoint for quick assistance |
+| 💚 **WhatsApp** | One-tap customer communication from the website |
+
+<br/>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=047857&height=2&width=900" width="80%"/>
+</div>
+
+## ✧ Signature Features
+
+### 01 — Editorial Hero Experience
+A high-impact opening section introduces Luna Café through large editorial typography, premium café imagery, animated and interactive visual elements, a clear reservation CTA, café positioning and location context, and atmospheric messaging — fully responsive across desktop and mobile.
+
+The visual direction is inspired by luxury hospitality, contemporary cafés and editorial design rather than a conventional restaurant template.
+
+### 02 — Interactive Navigation
+Structured for effortless exploration — **Home · Menu · About · Gallery · Journal · Events** — with prominent actions for reserving a table, WhatsApp, social/contact access and location discovery. Navigation stays visually consistent with the premium identity throughout.
+
+### 03 — Premium Menu Experience
+More than a static list — a fully interactive browsing experience with categories, items, descriptions, pricing, featured dishes, clear ordering actions and responsive card layouts. Ready to expand with dietary labels, allergens, seasonal collections and online ordering.
+
+### 04 — Gallery & Visual Storytelling
+A dedicated gallery lets visitors experience Luna before they arrive — Interior · Coffee · Food · People · Events · Atmosphere — designed to feel editorial and immersive rather than a basic image grid.
+
+### 05 — Reservation Experience
+A seamless journey from homepage or navigation straight into booking — guest details, date and time selection, party size, special requests, confirmation state, and mobile-friendly interaction throughout.
+
+### 06 — Events & Experiences
+Room for weekend gatherings, coffee experiences, tastings, private events, seasonal launches, community evenings, workshops and special menus — each with its own title, description, date, time and visual identity.
+
+### 07 — Journal
+Gives Luna an editorial voice — coffee stories, behind-the-scenes moments, seasonal menus, café culture, barista stories, neighbourhood guides, lifestyle notes and event recaps. A strong foundation for future content marketing and SEO.
+
+### 08 — Location & Visit Information
+Brings essential visit information together — address, opening hours, contact info, directions, map integration and WhatsApp access — making the final step from *discover → decide → visit* frictionless.
+
+### 09 — Floating Actions
+Ask Luna, WhatsApp, Reservation and quick contact stay easily accessible via floating controls, intentionally separated from main content to keep the interface elegant without sacrificing usability.
+
+### 10 — Cart & Ordering Foundation
+An interactive cart experience — add to cart, adjust quantities, remove items, order summary, pricing calculations and a checkout entry point — a foundation for future online ordering and payments.
+
+### 11 — Gift Cards
+A dedicated commercial surface for digital gift cards, multiple denominations, recipient details, personal messages and delivery/redemption information.
+
+### 12 — FAQ & Customer Support
+Reduces friction around hours, reservations, parking, events, dietary requirements, private bookings, ordering, gift cards and contact info.
+
+<br/>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=047857&height=2&width=900" width="80%"/>
+</div>
+
+## ✦ Visual Direction
+
+The visual language is intentionally quiet, sophisticated and editorial.
+
+**Colour Philosophy** — the primary accent is Emerald Green, paired with warm neutrals and deep charcoal tones.
+
+<div align="center">
+
+| Role | Direction | Swatch |
+|---|---|---|
+| Primary | `#047857` — Emerald | ![#047857](https://placehold.co/60x20/047857/047857.png) |
+| Deep Accent | `#064E3B` — Deep Emerald | ![#064E3B](https://placehold.co/60x20/064E3B/064E3B.png) |
+| Dark | `#111827` — Charcoal | ![#111827](https://placehold.co/60x20/111827/111827.png) |
+| Warm Base | Cream / Ivory neutrals | ![#F5F0E6](https://placehold.co/60x20/F5F0E6/F5F0E6.png) |
+| Secondary | Muted earthy tones | ![#B08968](https://placehold.co/60x20/B08968/B08968.png) |
+
+</div>
+
+The palette communicates **warmth · nature · sophistication · hospitality · calm**.
+
+### ✧ Design Principles
+- **Editorial Typography** — large display type creates a magazine-inspired hierarchy
+- **Generous Whitespace** — content is given room to breathe
+- **Cinematic Imagery** — large visuals establish atmosphere and emotional context
+- **Micro-Interactions** — hover states, transitions, floating controls and subtle movement create a responsive sense of depth
+- **Visual Rhythm** — sections alternate between imagery, typography, cards and whitespace
+- **Responsive First** — adapts seamlessly across Desktop · Laptop · Tablet · Mobile
+
+<br/>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=047857&height=2&width=900" width="80%"/>
+</div>
+
+## ◇ Interaction Details
+
+Subtle movement over excessive animation — smooth page transitions, hover elevation, image zoom/reveal effects, animated navigation states, floating action buttons, scroll-based visual movement, interactive cards, button micro-interactions, animated typography and elegant entrance effects.
+
+The objective: a premium motion language — noticeable enough to feel alive, restrained enough to remain sophisticated.
+
+<br/>
+
+## 🧭 User Journey
+
+```
+DISCOVER → HOME → EXPLORE THE CAFÉ
+                        ↓
+        MENU ─────── GALLERY ─────── JOURNAL
+                        ↓
+              EVENTS / EXPERIENCES
+                        ↓
+                RESERVE A TABLE
+                        ↓
+                   VISIT LUNA
 ```
 
-------------------------------------------------------------------------
+**Returning customers:** `HOME → MENU → ADD TO CART → ORDER`
+**Quick communication:** `ANY PAGE → WHATSAPP / ASK LUNA → CUSTOMER ENQUIRY`
 
-# 🖥️ Core Pages
+<br/>
 
-## 🏠 Home
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=047857&height=2&width=900" width="80%"/>
+</div>
 
-The homepage acts as the main brand experience.
+## ⚡ Technology & Structure
 
-### Includes
-
--   Premium navigation
--   Location and opening-hours announcement bar
--   Reservation CTA
--   WhatsApp access
--   Editorial hero section
--   Large typography
--   Cinematic restaurant imagery
--   Atmosphere highlights
--   Featured content
--   Restaurant storytelling
--   Menu discovery
--   Gallery preview
--   Events preview
--   Journal preview
--   Strong conversion CTAs
-
-The homepage is intentionally designed to feel **more like a premium
-hospitality brand than a generic restaurant template.**
-
-------------------------------------------------------------------------
-
-## 🍽️ Menu
-
-The menu experience allows visitors to explore the café's food and
-beverage offering.
-
-### Includes
-
--   Menu categories
--   Food and beverage cards
--   Item names
--   Descriptions
--   Pricing
--   Featured dishes
--   Visual food presentation
--   Clear navigation back into the ordering experience
-
-The menu is structured so it can be expanded later with:
-
--   Dietary labels
--   Vegetarian / vegan filters
--   Allergen information
--   Search
--   Item customisation
--   Add-to-cart functionality
-
-------------------------------------------------------------------------
-
-## 📖 About
-
-The About page communicates the personality behind Luna Café.
-
-### Includes
-
--   Café story
--   Brand philosophy
--   Hospitality positioning
--   Editorial storytelling
--   Supporting imagery
--   CTA to explore the menu or visit the café
-
-------------------------------------------------------------------------
-
-## 🖼️ Gallery
-
-The Gallery turns the café's atmosphere into a visual experience.
-
-### Includes
-
--   Interior imagery
--   Food imagery
--   Coffee imagery
--   Lifestyle moments
--   Editorial visual layouts
--   Responsive image presentation
-
-The gallery can be extended into a more advanced masonry gallery or
-lightbox experience.
-
-------------------------------------------------------------------------
-
-## 📰 Journal
-
-The Journal introduces an editorial layer to the website.
-
-### Example content
-
--   Coffee stories
--   Seasonal menus
--   Behind-the-scenes stories
--   Café culture
--   Recipes
--   Local guides
--   Lifestyle articles
-
-This helps the website feel like a **brand publication**, not just a
-digital menu.
-
-------------------------------------------------------------------------
-
-## ✦ Events
-
-The Events section allows Luna Café to promote experiences such as:
-
--   Live music
--   Coffee tastings
--   Workshops
--   Seasonal launches
--   Community events
--   Private gatherings
-
-Each event can be expanded with:
-
--   Date
--   Time
--   Description
--   Capacity
--   Registration CTA
--   Event imagery
-
-------------------------------------------------------------------------
-
-# 📅 Reservations
-
-The reservation experience gives visitors a clear path from discovery to
-booking.
-
-### Includes
-
--   Reservation CTA
--   Dedicated reservation page
--   Guest information flow
--   Date/time selection structure
--   Booking-oriented UI
--   Clear confirmation-oriented experience
-
-For a production client website, this can be connected to a real
-reservation provider or custom backend.
-
-------------------------------------------------------------------------
-
-# 🛍️ Ordering & Cart
-
-The project also includes an ordering-oriented architecture.
-
-### Order experience
-
-Visitors can move from menu discovery toward ordering.
-
-### Cart experience
-
-Includes the foundation for:
-
--   Selected items
--   Quantities
--   Order summary
--   Pricing
--   Checkout CTA
-
-This makes the project suitable for evolving into:
-
-**Restaurant Website → Online Ordering Platform**
-
-------------------------------------------------------------------------
-
-# 🎁 Gift Cards
-
-A dedicated Gift Cards page provides another potential restaurant
-revenue channel.
-
-Possible use cases:
-
--   Birthday gifts
--   Anniversary gifts
--   Coffee experiences
--   Holiday gifting
--   Corporate gifting
-
-The experience can later be connected to a real payment provider.
-
-------------------------------------------------------------------------
-
-# ❓ FAQ
-
-The FAQ page is designed to answer common customer questions around:
-
--   Opening hours
--   Reservations
--   Menu
--   Events
--   Location
--   Ordering
--   Gift cards
--   Accessibility
--   Contact
-
-------------------------------------------------------------------------
-
-# 📍 Location
-
-The Location experience helps customers find the café quickly.
-
-### Includes
-
--   Address
--   Location information
--   Directions-oriented CTA
--   Contact information
--   Opening hours
--   Visit CTA
-
-A production version can embed Google Maps or another map provider.
-
-------------------------------------------------------------------------
-
-# 💬 Contact & Customer Actions
-
-The website includes dedicated contact functionality plus quick-action
-elements.
-
-### Customer actions
-
--   Contact
--   Reservation
--   WhatsApp
--   Location
--   Order
--   FAQ
--   Gift Cards
-
-The goal is to reduce friction between **website visitor → customer
-action**.
-
-------------------------------------------------------------------------
-
-# ✨ Interactive Experience
-
-The website is designed with motion and interaction in mind.
-
-### Motion principles
-
--   Smooth hover states
--   Animated buttons
--   Image transitions
--   Scroll-based visual movement
--   Interactive navigation
--   Floating actions
--   Micro-interactions
--   Page transitions
--   Responsive motion behaviour
-
-The motion is intentionally subtle so the website remains **premium
-rather than distracting**.
-
-------------------------------------------------------------------------
-
-# 💚 Visual Direction
-
-The visual identity uses a sophisticated hospitality aesthetic.
-
-### Primary visual language
-
-``` text
-Emerald
-   ↓
-Luxury / freshness / nature
-
-Warm neutrals
-   ↓
-Coffee / hospitality / warmth
-
-Editorial typography
-   ↓
-Premium / sophisticated / timeless
-
-Large imagery
-   ↓
-Atmosphere / storytelling
-
-Motion
-   ↓
-Modern digital experience
 ```
-
-### Design goals
-
-**Minimal.\
-Editorial.\
-Warm.\
-Premium.\
-Immersive.\
-Conversion-focused.**
-
-------------------------------------------------------------------------
-
-# 🧩 Component Architecture
-
-The project uses reusable React components instead of placing the entire
-interface inside a single file.
-
-### Example component structure
-
-``` text
-src/
+luna-cafe/
 │
-├── components/
-│   ├── Navbar
-│   ├── Footer
-│   ├── FloatingActions
-│   ├── Hero
-│   ├── Services
-│   ├── Stats
-│   ├── Testimonials
-│   ├── Work
-│   ├── Pricing
-│   ├── Process
-│   ├── Scene3D
-│   └── UI components
+├── public/
+│   └── images/
 │
-├── data/
-│   ├── content
-│   ├── images
-│   └── menu
+├── src/
+│   ├── components/
+│   ├── data/
+│   ├── pages/
+│   ├── store/
+│   ├── utils/
+│   ├── App.tsx
+│   ├── index.css
+│   └── main.tsx
 │
-├── pages/
-│   ├── Home
-│   ├── MenuPage
-│   ├── About
-│   ├── Gallery
-│   ├── Journal
-│   ├── Events
-│   ├── Reservations
-│   ├── Order
-│   ├── Cart
-│   ├── GiftCards
-│   ├── FAQ
-│   ├── Location
-│   ├── Contact
-│   └── NotFound
-│
-├── store/
-│   └── cart
-│
-└── utils/
-    └── shared utilities
+├── index.html
+├── package.json
+├── package-lock.json
+├── tsconfig.json
+└── vite.config.ts
 ```
 
-This architecture makes the project easier to:
+## 📱 Responsive Experience
 
--   Maintain
--   Extend
--   Rebrand
--   Reuse
--   Connect to APIs
--   Convert into a real client project
+| Device | Behaviour |
+|---|---|
+| **Desktop** | Immersive editorial layouts, large imagery, spacious composition |
+| **Tablet** | Balanced content hierarchy with adaptive grids and navigation |
+| **Mobile** | Touch-friendly controls, readable typography, compact navigation, accessible CTAs |
 
-------------------------------------------------------------------------
+## ♿ Experience & Usability
 
-# ⚙️ Tech Stack
+Clear navigation · Strong visual hierarchy · Readable typography · Accessible interactive targets · Responsive layouts · Meaningful button labels · Clear customer journeys · Consistent interaction patterns
 
-### Frontend
+<br/>
 
--   **React**
--   **TypeScript**
--   **Vite**
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=047857&height=2&width=900" width="80%"/>
+</div>
 
-### Styling & UI
+## 🚀 Live Experience
 
--   Responsive CSS
--   Component-based styling
--   Custom visual system
--   Responsive layouts
--   Motion / interaction patterns
+<div align="center">
 
-### Development
+### ✦ Visit Luna Café
 
--   Git
--   GitHub
--   npm
--   Vercel
+**[https://luna-cafe-pied.vercel.app/](https://luna-cafe-pied.vercel.app/)**
 
-### Deployment
+<a href="https://luna-cafe-pied.vercel.app/">
+  <img src="https://img.shields.io/badge/OPEN%20LIVE%20WEBSITE-047857?style=for-the-badge&logoColor=white" alt="Open Luna Café"/>
+</a>
 
-**Vercel**
+</div>
 
-The production deployment is connected to the GitHub repository so
-future changes can be deployed through the Git workflow.
+## ◈ Project Repository
 
-------------------------------------------------------------------------
+<div align="center">
 
-# 📱 Responsive Design
+**[github.com/Saniya0301/luna-cafe](https://github.com/Saniya0301/luna-cafe)**
 
-The interface is designed to adapt across:
+<a href="https://github.com/Saniya0301/luna-cafe">
+  <img src="https://img.shields.io/badge/VIEW%20SOURCE-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repository"/>
+</a>
 
-``` text
-Desktop
-   ↓
-Tablet
-   ↓
-Mobile
-```
+</div>
 
-Responsive considerations include:
+<br/>
 
--   Navigation behaviour
--   Typography scaling
--   Image resizing
--   Grid restructuring
--   CTA placement
--   Touch-friendly controls
--   Mobile spacing
--   Content hierarchy
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=047857&height=2&width=900" width="80%"/>
+</div>
 
-------------------------------------------------------------------------
+## ✦ Future Enhancements
 
-# 🚀 Run Locally
+<table>
+<tr>
+<td valign="top" width="33%">
 
-Clone the repository:
+**Commerce**
+- Online payment integration
+- Real-time table availability
+- Delivery & pickup scheduling
+- Digital gift-card redemption
+- Coupon / promotional codes
 
-``` bash
-git clone https://github.com/Saniya0301/luna-cafe.git
-```
+</td>
+<td valign="top" width="33%">
 
-Navigate into the project:
+**Customer Experience**
+- Reservation confirmation emails
+- SMS / WhatsApp confirmations
+- Customer accounts & order history
+- Loyalty programme & digital card
+- Advanced menu filtering
 
-``` bash
-cd luna-cafe
-```
+</td>
+<td valign="top" width="33%">
 
-Install dependencies:
+**Platform**
+- Admin & analytics dashboard
+- CMS-powered Journal
+- SEO optimisation
+- Customer reviews & newsletter
+- Multi-location support
 
-``` bash
-npm install
-```
+</td>
+</tr>
+</table>
 
-Start the development server:
+<br/>
 
-``` bash
-npm run dev
-```
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=047857&height=2&width=900" width="80%"/>
+</div>
 
-Open the local development URL shown in your terminal.
+## ♢ Why Luna Café?
 
-------------------------------------------------------------------------
+A café website should do more than display an address and a menu — it should communicate the feeling of the place before a customer walks through the door.
 
-# 🏗️ Production Build
+Luna Café is built around that idea:
 
-Create a production build:
+**Discover the space. Explore the menu. Find your moment. Make a reservation. Stay a while.**
 
-``` bash
-npm run build
-```
+<br/>
 
-Preview the production build locally:
+<div align="center">
 
-``` bash
-npm run preview
-```
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:047857,100:064E3B&height=180&section=footer&animation=fadeIn"/>
 
-------------------------------------------------------------------------
+**☕ LUNA CAFÉ**
+*Coffee, conversations & slow moments.*
 
-# 🌐 Live Demo
+Designed for a refined digital café experience.
 
-::: {align="center"}
-### ✦ Experience Luna Café
+<a href="https://luna-cafe-pied.vercel.app/">✦ Live Demo</a> &nbsp;·&nbsp; <a href="https://github.com/Saniya0301/luna-cafe">GitHub</a>
 
-**[OPEN LIVE WEBSITE →](https://luna-cafe-pied.vercel.app/)**
+© 2026 Luna Café
 
-`<br/>`{=html}
-
-[![Live
-Website](https://img.shields.io/badge/LUNA%20CAF%C3%89-LIVE%20DEMO-10B981?style=for-the-badge&logo=vercel&logoColor=white)](https://luna-cafe-pied.vercel.app/)
-:::
-
-------------------------------------------------------------------------
-
-# 💻 Source Code
-
-::: {align="center"}
-**[VIEW SOURCE CODE ON GITHUB
-→](https://github.com/Saniya0301/luna-cafe)**
-:::
-
-------------------------------------------------------------------------
-
-# 🔮 Future Enhancements
-
-The current project provides a strong foundation that can be expanded
-into a complete production restaurant platform.
-
-### Phase 2 possibilities
-
--   Real reservation backend
--   Real-time table availability
--   Online payments
--   Razorpay / Stripe integration
--   Customer accounts
--   Order tracking
--   Admin dashboard
--   CMS for menu management
--   Event management dashboard
--   Newsletter integration
--   Email confirmations
--   WhatsApp automation
--   Google Maps integration
--   SEO optimisation
--   Analytics
--   Accessibility improvements
--   PWA support
--   Advanced 3D interactions
--   AI-powered café assistant
--   Personalised recommendations
-
-------------------------------------------------------------------------
-
-# 🎯 Freelance Use Case
-
-This project demonstrates the ability to create a complete digital
-presence for a real-world hospitality business.
-
-### Suitable clients
-
--   ☕ Cafés
--   🍽️ Restaurants
--   🥐 Bakeries
--   🍸 Bars
--   🏨 Boutique hotels
--   🍰 Dessert brands
--   🧁 Cloud kitchens
--   🌿 Wellness cafés
--   🎵 Café + event spaces
-
-### Client value
-
-A website like this can help a business:
-
-**Build a premium brand →\
-Showcase its menu →\
-Increase reservations →\
-Drive customer enquiries →\
-Promote events →\
-Enable ordering →\
-Create repeat engagement.**
-
-------------------------------------------------------------------------
-
-# 📸 Project Showcase
-
-For portfolio presentation, recommended screenshots include:
-
-``` text
-01 — Homepage Hero
-02 — Menu Experience
-03 — About Section
-04 — Gallery
-05 — Journal
-06 — Events
-07 — Reservation Flow
-08 — Order / Cart
-09 — Location
-10 — Mobile Experience
-```
-
-A portfolio presentation should show both the **visual quality** and the
-**functional depth** of the project.
-
-------------------------------------------------------------------------
-
-# 👩‍💻 Developer
-
-::: {align="center"}
-### Saniya Chhabra
-
-**AI & Data Science Student • AI-Assisted Developer • Freelance Web
-Developer**
-
-Building digital experiences that combine:
-
-**AI × Design × Development × User Experience**
-
-`<br/>`{=html}
-
-[![GitHub](https://img.shields.io/badge/GitHub-Saniya0301-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Saniya0301)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Saniya%20Chhabra-111827?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/saniya-chhabra/)
-:::
-
-------------------------------------------------------------------------
-
-::: {align="center"}
-## ☕ Made for slow mornings, good coffee & meaningful conversations.
-
-### **LUNA CAFÉ**
-
-`<sub>`{=html}Designed with intention. Built with modern web
-technologies.`</sub>`{=html}
-
-`<br/>`{=html}`<br/>`{=html}
-
-`<img src="https://img.shields.io/badge/✦-10B981?style=flat-square" />`{=html}
-`<img src="https://img.shields.io/badge/CRAFTED%20WITH%20CARE-111827?style=flat-square" />`{=html}
-`<img src="https://img.shields.io/badge/BUILT%20FOR%20THE%20WEB-10B981?style=flat-square" />`{=html}
-:::
+</div>
